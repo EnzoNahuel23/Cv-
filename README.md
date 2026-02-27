@@ -42,7 +42,7 @@ Página web básica de venta de indumentaria urbana desarrollada como práctica 
 
 ## Ver online
 
-https://EnzoNahuel23.github.io/cv-/
+https://enzonahuel23.github.io/Cv-/
 
 ## Autor
 
