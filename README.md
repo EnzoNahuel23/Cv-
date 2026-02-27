@@ -7,33 +7,33 @@ Se trata de una página web estática donde presento mi perfil profesional, mis 
 
 El objetivo del proyecto es demostrar conocimientos en:
 
-Maquetado semántico
+- Maquetado semántico
 
-Separación de estructura y estilos
+- Separación de estructura y estilos
 
-Buenas prácticas básicas de desarrollo frontend
+- Buenas prácticas básicas de desarrollo frontend
 
-Organización clara del contenido
+- Organización clara del contenido
 
 ## Tecnologías utilizadas
 
-HTML5 – Estructura semántica (header, main, section, article, footer)
+- HTML5 – Estructura semántica (header, main, section, article, footer)
 
-CSS3 – Estilos, diseño visual y maquetado básico
+- CSS3 – Estilos, diseño visual y maquetado básico
 
 ## Funcionalidades
 
-Presentación de perfil profesional
+- Presentación de perfil profesional
 
-Sección de tecnologías técnicas defendibles
+- Sección de tecnologías técnicas defendibles
 
-Sección de proyectos con enlace a GitHub
+- Sección de proyectos con enlace a GitHub
 
-Información de contacto
+- Información de contacto
 
-Diseño simple y legible
+- Diseño simple y legible
 
-Código organizado y fácil de mantener
+- Código organizado y fácil de mantener
 
 ## Proyecto Destacado
 
