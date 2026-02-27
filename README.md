@@ -1,4 +1,5 @@
 # CV Web - Carnero Enzo Nahuel
+
 Este proyecto consiste en un Currículum Vitae técnico desarrollado utilizando HTML5 y CSS3, con una estructura semántica y un diseño simple, claro y profesional.
 
 ## Descripción
@@ -47,4 +48,5 @@ https://enzonahuel23.github.io/Cv-/
 ## Autor
 
 Carnero Enzo Nahuel
+
 Estudiante de Licenciatura en Informática
